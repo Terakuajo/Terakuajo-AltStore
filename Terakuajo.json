@@ -19,7 +19,17 @@
       "tintColor": "#892dff",
       "category": "social",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://example.com",
+          "size": 50000000,
+          "version": "1.0.0",
+          "buildVersion": "",
+          "date": "2025-06-21T22:29:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {},
       "patreon": {}
     }
