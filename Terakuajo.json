@@ -7,7 +7,23 @@
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#892dff",
   "featuredApps": [],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Terakuajo",
+      "bundleIdentifier": "com.josema.terakuajo",
+      "marketplaceID": "",
+      "developerName": "Jose",
+      "subtitle": "App oficial de la OST",
+      "localizedDescription": "",
+      "iconURL": "https://github.com/Terakuajo/Terakuajo-AltStore/blob/main/icon.png?raw=true",
+      "tintColor": "#892dff",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {},
+      "patreon": {}
+    }
+  ],
   "news": [
     {
       "title": "New Feature Announcement",
